@@ -1,0 +1,1246 @@
+@media (max-width: 1440px) {
+  .menu1 {
+    display: none;
+  }
+
+  .slider-main-containerres {
+    height: 510px;
+  }
+
+  .ly1 {
+    top: 0;
+    left: 0;
+    height: 70vh;
+  }
+
+  .ly2 {
+    top: 0;
+    height: 150px;
+  }
+
+  .content-section-bg-color h1 {
+    font-size: 100px;
+    font-weight: bolder;
+  }
+
+  .content-section-bg-color p {
+    font-size: 25px;
+  }
+
+  .content-section-bg-color button {
+    padding: 15px 30px;
+    border: none;
+    /* box-shadow: 0 0 0px 3px rgba(0, 0, 0, 0.1); */
+    font-weight: 600;
+    color: #4d5fe3;
+  }
+
+  .girl-img {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  .girl-img .girl-img1 {
+    /* padding: 10px; */
+    height: 510px;
+    position: absolute;
+    right: 0;
+  }
+
+  .girl-icon1 {
+    height: 200px;
+    right: 100px;
+    position: relative;
+    top: 250px;
+  }
+
+  .girl-icon2 {
+    height: 200px;
+    position: relative;
+    top: 320px;
+  }
+
+  .content-section-bg-color {
+    padding: 40px 0;
+  }
+
+  /* online Learing section */
+
+  .custom {
+    display: flex;
+    position: absolute;
+    right: -15px;
+    background-color: var(--white-color);
+    bottom: 90px;
+    width: 230px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .fit-course-parent {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+  }
+
+  .course-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+  }
+
+  .course-list .hand-made {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .registration-heading-content {
+    position: absolute;
+    top: 100px;
+  }
+
+  .registration-heading-content h1 {
+    width: 65%;
+  }
+
+  .from-content-start {
+    position: absolute;
+    right: 0;
+    top: 100px;
+  }
+
+  .access-for {
+    width: 550px;
+    position: relative;
+    top: 100px;
+  }
+
+  .from-content-start form {
+    background: var(--white-color);
+    width: 480px;
+    height: auto;
+    padding: 40px;
+  }
+
+  .from-content-start form ul li {
+    padding: 10px 0;
+  }
+
+  .from-content-start form ul li input {
+    border: none;
+    outline: none;
+    background: #f1f2f6;
+  }
+
+  .from-content-start form textarea {
+    resize: none;
+    border: none;
+    outline: none;
+    background: #f1f2f6;
+    padding: 10px;
+  }
+
+  .ema-tel input {
+    width: 190px;
+  }
+
+  .main-bg-img {
+    background: url("slider-photo/bg-2.jpg") no-repeat;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .content-section {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 50px;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Mission for polishing a skill */
+
+  .fixturing-boxes {
+    color: #4d5fe3;
+    text-align: center;
+    width: 150px;
+    background: #0d0f13;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  .parent-fixter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  /* .main-bg-img{
+    background: url('slider-photo/bg-2.jpg') no-repeat;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-size: cover;    
+  } */
+
+  .slid-bar {
+    position: absolute;
+    top: 200px;
+    background-color: var(--primary-color);
+    color: #fff;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    transform: rotate(-90deg);
+    left: -177px;
+  }
+
+  .date {
+    display: flex;
+    font-size: 14px;
+    background-color: var(--white-color);
+    top: 225px;
+    left: 80px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .boxes1 img {
+    width: 160px;
+    height: auto;
+    border-right: 1px solid #eee;
+  }
+}
+
+@media (max-width: 1200px) {
+  .menu1 {
+    display: none;
+  }
+
+  .content-section-bg-color h1 {
+    font-size: 95px;
+    font-weight: bolder;
+  }
+
+  .content-section-bg-color p {
+    font-size: 20px;
+  }
+
+  .girl-img .girl-img1 {
+    /* padding: 10px; */
+    height: 500px;
+    position: absolute;
+    right: 0;
+  }
+
+  .slider-main-containerres {
+    height: 500px;
+  }
+
+  .ly1 {
+    top: 0;
+    left: 0;
+    height: 80vh;
+  }
+
+  .girl-icon1 {
+    height: 200px;
+    right: 100px;
+    position: relative;
+    top: 220px;
+  }
+
+  .girl-icon2 {
+    height: 200px;
+    position: relative;
+    top: 320px;
+  }
+
+ 
+  /* online Learing section */
+
+  .custom {
+    position: absolute;
+    right: -15px;
+    background-color: var(--white-color);
+    bottom: 90px;
+    width: 230px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .course-list {
+    display: flex;
+    justify-content: center;
+  }
+
+  .fit-course-parent {
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+  }
+
+  .course-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+  }
+
+  .course-list .hand-made {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .registration-heading-content {
+    position: absolute;
+    top: 100px;
+  }
+
+  .from-content-start {
+    position: absolute;
+    right: 0;
+    top: 100px;
+  }
+
+  .access-for {
+    width: 480px;
+    position: relative;
+    top: 100px;
+    left: 0;
+  }
+
+  .from-content-start form {
+    background: var(--white-color);
+    width: 480px;
+    height: auto;
+    padding: 40px;
+  }
+
+  .from-content-start form ul li {
+    padding: 10px 0;
+  }
+
+  .from-content-start form ul li input {
+    border: none;
+    outline: none;
+    background: #f1f2f6;
+  }
+
+  .access-content p {
+  }
+
+  .from-content-start form textarea {
+    resize: none;
+    border: none;
+    outline: none;
+    background: #f1f2f6;
+    padding: 10px;
+  }
+
+  .registration-heading-content h1 {
+    font-size: 32px;
+  }
+
+  .registration-heading-content .para1 {
+    font-size: 14px;
+  }
+
+  .content-section {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Mission for polishing a skill */
+  .fixturing-boxes {
+    color: #4d5fe3;
+    text-align: center;
+    width: 150px;
+    background: #0d0f13;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  .slid-bar {
+    position: absolute;
+    top: 150px;
+    background-color: var(--primary-color);
+    color: #fff;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    transform: rotate(-90deg);
+    left: -127px;
+  }
+
+  .date {
+    font-size: 11px;
+    background-color: var(--white-color);
+    top: 185px;
+    left: 60px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+}
+
+@media (max-width: 1024px) {
+  .navbar,
+  .header {
+    display: none;
+  }
+
+  .menu1 {
+    display: block;
+  }
+
+  .content-section-bg-color h1 {
+    font-size: 90px;
+    font-weight: bolder;
+  }
+
+  .content-section-bg-color p {
+    font-size: 20px;
+  }
+
+  .girl-img .girl-img1 {
+    /* padding: 10px; */
+    height: 400px;
+    position: absolute;
+    right: 0;
+  }
+
+  .slider-main-containerres {
+    height: 400px;
+  }
+
+  .ly1 {
+    top: 0;
+    left: 0;
+    height: 80vh;
+  }
+
+  .girl-icon1 {
+    height: 160px;
+    right: 100px;
+    position: relative;
+    top: 180px;
+    left: 40px;
+  }
+
+  .girl-icon2 {
+    height: 150px;
+    position: relative;
+    top: 280px;
+  }
+
+  .content-section-bg-color{
+    padding: 30px 0;
+  }
+
+ 
+
+  /* online Learing section */
+
+  .custom {
+    position: absolute;
+    right: -15px;
+    background-color: var(--white-color);
+    bottom: 90px;
+    width: 230px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .fit-course-parent {
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+  }
+
+  .course-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+  }
+
+  .course-list .hand-made {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  /* Mission for polishing a skill */
+
+  .parent-fixter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .top1 {
+    display: none;
+  }
+
+  .boxes1 img {
+    width: 160px;
+    height: auto;
+    border-right: 1px solid #eee;
+  }
+}
+
+@media (max-width: 991px) {
+  .content-section-bg-color h1 {
+    font-size: 70px;
+    font-weight: bolder;
+  }
+
+  .content-section-bg-color p {
+    font-size: 20px;
+  }
+
+  .girl-img .girl-img1 {
+    padding: 20px;
+    height: 440px;
+    position: absolute;
+    right: 0;
+  }
+
+  .slider-main-containerres {
+    height: 420px;
+  }
+
+  .ly1 {
+    top: 0;
+    left: 0;
+    height: 60vh;
+  }
+
+  .girl-icon1 {
+    height: 160px;
+    position: relative;
+    top: 200px;
+  }
+
+  .girl-icon2 {
+    height: 140px;
+    position: relative;
+    top: 280px;
+  }
+ 
+
+
+
+  /* online Learing section */
+
+  .blue-line {
+    position: absolute;
+    left: -4px;
+    bottom: 30px;
+    width: 40px;
+    height: 400px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: var(--primary-color);
+  }
+
+  .custom {
+    position: absolute;
+    right: -15px;
+    background-color: var(--white-color);
+    bottom: 90px;
+    width: 230px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .online-course-detail {
+    position: relative;
+    top: 37rem;
+  }
+
+  .card-img {
+  }
+
+  .course-list {
+    display: none;
+  }
+
+  .explore-course {
+    position: relative;
+    top: 32rem;
+  }
+
+  .fit-course-parent {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+  }
+
+  .fit-course-parent .course-card {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .registration-heading-content {
+    position: absolute;
+    top: 100px;
+  }
+
+  .from-content-start {
+    position: absolute;
+    right: 0;
+    top: 100px;
+  }
+
+  .access-for {
+    width: 400px;
+    position: relative;
+    top: 120px;
+    /* left: -50px; */
+    font-size: 15px;
+  }
+
+  .access-for h4 {
+    font-size: 18px;
+  }
+
+  .access-for p {
+    font-size: 13px;
+  }
+
+  .from-content-start form {
+    background: var(--white-color);
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .from-content-start form ul li {
+    padding: 10px 0;
+  }
+
+  .from-content-start form ul li input {
+    border: none;
+    outline: none;
+    background: #f1f2f6;
+  }
+
+  .from-content-start form textarea {
+    resize: none;
+    border: none;
+    outline: none;
+    background: #f1f2f6;
+    padding: 10px;
+  }
+
+  .registration-heading-content h1 {
+    width: 50%;
+  }
+
+  .registration-heading-content .para1 {
+    font-size: 14px;
+  }
+
+  .ema-tel input {
+    width: 125px;
+  }
+
+  .main-bg-img {
+    background: url("slider-photo/bg-2.jpg") no-repeat;
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    top: 30rem;
+  }
+
+  .main-featuring-container {
+    margin-top: 700px;
+  }
+
+  .content-section {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 50px;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Mission for polishing a skill */
+
+  .fixturing-boxes {
+    color: #4d5fe3;
+    text-align: center;
+    width: 150px;
+    background: #0d0f13;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  .parent-fixter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .logo-box,
+  .logo-box1,
+  .logo-box2,
+  .logo-box4 {
+    width: 150px;
+    background: var(--light-gray);
+    display: flex;
+    justify-content: center;
+  }
+
+  .fs-img .slide-heading {
+    position: absolute;
+    top: 600px;
+    right: 530px;
+    background: var(--primary-color);
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 13px;
+    transform: rotate(-90deg);
+  }
+  */ .fs-img {
+    top: 600px;
+  }
+
+  .slid-bar {
+    position: absolute;
+    top: 200px;
+    background-color: var(--primary-color);
+    color: #fff;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    transform: rotate(-90deg);
+    left: -177px;
+  }
+
+  .blogpage {
+    margin-top: 200px;
+  }
+
+  .date {
+    font-size: 11px;
+    background-color: var(--white-color);
+    top: 200px;
+    left: 75px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .boxes1 img {
+    width: 140px;
+    height: 160px;
+  }
+
+  .bo-icon {
+    display: block;
+  }
+
+  .end-1 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .boxes1 img {
+    width: 160px;
+    height: auto;
+    border-right: 1px solid #eee;
+  }
+}
+
+@media (max-width: 767px) {
+
+  .content-section-bg-color h1 {
+    font-size: 50px;
+    font-weight: bolder;
+  }
+
+  .content-section-bg-color p {
+    font-size: 20px;
+  }
+
+  .girl-img .girl-img1 {
+    padding: 20px;
+    height: 420px;
+    position: absolute;
+    right: 0;
+  }
+
+  .slider-main-containerres {
+    height: 400px;
+  }
+
+  .girl-icon1 {
+    height: 100px;
+    position: relative;
+    top: 250px;
+    left: -50px;
+  }
+
+  .girl-icon2 {
+    height: 100px;
+    position: relative;
+    top: 280px;
+  
+  }
+
+  .ly1 {
+    top: 0;
+    left: 0;
+    height: 300px;
+  }
+
+  .ly2 {
+    top: 0;
+    height: 110px;
+  }
+ 
+  /* online Learing section */
+
+  .custom {
+    position: absolute;
+    right: -15px;
+    background-color: var(--white-color);
+    bottom: 90px;
+    width: 230px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .fit-course-parent {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+  }
+
+  .fit-course-parent .course-card {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .main-bg-img {
+    background: url("slider-photo/bg-2.jpg") no-repeat;
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    top: 30rem;
+  }
+
+  .from-content-start form {
+    background: var(--white-color);
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .from-content-start {
+    position: absolute;
+    top: 220px;
+    left: 0;
+    padding: 10px;
+  }
+
+  .ema-tel input {
+    width: 47%;
+  }
+  .registration-heading-content {
+    position: absolute;
+    top: 0;
+  }
+
+  .registration-heading-content h1 {
+    width: 100%;
+  }
+
+  .access-for {
+    position: absolute;
+    top: 750px;
+    right: 0;
+    width: 100%;
+    padding: 10px;
+    display: block;
+  }
+
+  .access-for span {
+    padding: 10px;
+  }
+
+  .access-content p {
+    font-size: 16px;
+  }
+
+  .content-section {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 50px;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Mission for polishing a skill */
+
+  .parent-fixter {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+  }
+
+  .fixturing-boxes {
+    width: 100%;
+  }
+
+  .mission-for-polishing {
+    background: url("slider-photo/bg-3.jpg") no-repeat;
+    width: 100%;
+    height: 750px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .logo-box,
+  .logo-box1,
+  .logo-box2,
+  .logo-box4 {
+    width: 230px;
+    background: var(--light-gray);
+    display: flex;
+    justify-content: center;
+  }
+
+  .date {
+    font-size: 16px;
+    background-color: var(--white-color);
+    top: 320px;
+    left: 110px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .bo-icon {
+    /* display: inline-block; */
+  }
+
+  .boxes1 img {
+    width: 160px;
+    height: auto;
+    border-right: 1px solid #eee;
+  }
+
+  .end-1 {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+@media (max-width: 576px) {
+  .content-section-bg-color {
+    padding: 38px 0;
+  }
+  
+  .content-section-bg-color h1 {
+    font-size: 34px;
+    font-weight: bolder;
+  }
+
+  .content-section-bg-color p {
+    font-size: 14px;
+  }
+
+  .girl-img .girl-img1 {
+    padding: 20px;
+    height: 270px;
+    position: absolute;
+    right: 0;
+  }
+
+  .slider-main-containerres {
+    height: 250px;
+  }
+
+  .girl-icon1 {
+    height: 100px;
+    position: relative;
+    top: 140px;
+  }
+
+  .girl-icon2 {
+    height: 100px;
+    position: relative;
+    top: 160px;
+  }
+
+  .ly1 {
+    top: 0;
+    left: 0;
+    height:60vh;
+  }
+
+  .ly2 {
+    top: 0;
+    height: 60px;
+  }
+
+  .content-section-bg-color button{
+    padding: 4px 10px;
+  }
+  /* online Learing section */
+
+  .blue-line {
+    position: absolute;
+    left: -4px;
+    bottom: 30px;
+    width: 40px;
+    height: 280px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: var(--primary-color);
+  }
+
+  .custom {
+    display: none;
+  }
+
+  .fit-course-parent {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 20px;
+  }
+
+  .fit-course-parent .course-card {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .content-section {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 50px;
+    width: 100%;
+    height: 100%;
+    /* padding-top: 50px; */
+  }
+
+  .logo-box,
+  .logo-box1,
+  .logo-box2,
+  .logo-box4 {
+    width: 180px;
+    background: var(--light-gray);
+    display: flex;
+    justify-content: center;
+  }
+
+  .slid-bar {
+    position: absolute;
+    top: 180px;
+    background-color: var(--primary-color);
+    color: #fff;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    transform: rotate(-90deg);
+    left: -128px;
+  }
+
+  .date {
+    /* position: static; */
+    display: none;
+    font-size: 13px;
+    background-color: var(--white-color);
+    top: 325px;
+    left: 150px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .boxes1 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .boxes1 img {
+    border-right: none;
+  }
+
+  .lin-1 {
+    width: 100%;
+    height: 1px;
+    background: #ccc;
+  }
+
+  .end-1 {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 425px) {
+  .content-section-bg-color h1 {
+    font-size: 22px;
+    font-weight: bolder;
+  }
+
+  .content-section-bg-color p {
+    font-size: 10px;
+  }
+
+  .girl-img .girl-img1 {
+    padding: 20px;
+    height: 220px;
+    position: absolute;
+    right: 0;
+  }
+
+  .slider-main-containerres {
+    height:200px;
+  }
+
+  .girl-icon1 {
+    height: 60px;
+    position: relative;
+    top: 120px;
+    /* left: px; */
+  }
+
+  .girl-icon2 {
+    height: 60px;
+    position: relative;
+    top: 135px;
+  }
+
+  .ly1 {
+    top: 0;
+    left: 0;
+    height:150px;
+  }
+
+  .ly2 {
+    top: 0;
+    height: 50px;
+  }
+
+  .content-section-bg-color button{
+    padding: 4px 9px;
+    font-size: 13px;
+  }
+
+
+  /* online Learing section   */
+
+  .blue-line {
+    position: absolute;
+    left: -4px;
+    bottom: 30px;
+    width: 40px;
+    height: 190px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: var(--primary-color);
+  }
+
+  .online-course-detail {
+    position: relative;
+    top: 20rem;
+  }
+
+  .explore-course {
+    position: relative;
+    top: 20rem;
+  }
+
+  .online-course-detail .btn {
+    font-size: 14px;
+  }
+
+  .fit-course-parent {
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 20px;
+  }
+
+  .fit-course-parent .course-card {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .main-bg-img {
+    background: url("slider-photo/bg-2.jpg") no-repeat;
+    width: 100%;
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    top: 30rem;
+  }
+
+  .from-content-start {
+    position: absolute;
+    top: 320px;
+    left: 0;
+    padding: 10px;
+  }
+
+  .access-for {
+    position: absolute;
+    top: 800px;
+    right: 0;
+    width: 100%;
+    padding: 10px;
+    display: block;
+  }
+
+  .content-section {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 30px;
+    width: 100%;
+    height: 70vh;
+  }
+
+  .logo-box,
+  .logo-box1,
+  .logo-box2,
+  .logo-box4 {
+    width: 130px;
+    height: 120px;
+    background: var(--light-gray);
+    display: flex;
+    justify-content: center;
+  }
+
+  .slid-bar {
+    position: absolute;
+    top: 100px;
+    background-color: var(--primary-color);
+    color: #fff;
+    width: 230px;
+    display: flex;
+    font-size: 13px;
+    /* justify-content: center; */
+    padding: 10px 0;
+    transform: rotate(-90deg);
+    left: -95px;
+  }
+}
+
+@media (max-width: 320px) {
+  .content-section {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+  }
+}
